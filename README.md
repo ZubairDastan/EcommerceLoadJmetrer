@@ -1,4 +1,5 @@
 # jmeterAssignment
+This is a demo project to run a load testing on an e-commerce site.
 
 ## How to run this file
 1. Clone the repo
